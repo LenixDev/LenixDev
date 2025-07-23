@@ -1,5 +1,5 @@
 ## Hi there 👋
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
 
 <!--
 **LenixDev/LenixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
