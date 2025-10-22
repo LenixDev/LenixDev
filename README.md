@@ -4,4 +4,4 @@
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenixdev&hide_progress=true)](https://github.com/TripplerScripts)
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&orgs=acme,evilcorp,fsociety)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
