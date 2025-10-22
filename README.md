@@ -3,3 +3,5 @@
 [![Recent Repository](https://github-readme-stats.vercel.app/api/pin/?username=lenixdev&repo=lenix_patrolvehicles)](https://github.com/LenixDev/lenix_patrolvehicles)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenixdev&hide_progress=true)](https://github.com/TripplerScripts)
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&orgs=acme,evilcorp,fsociety)
