@@ -2,4 +2,4 @@
 <br>
 [![Recent Repository](https://github-readme-stats.vercel.app/api/pin/?username=lenixdev&repo=lenix_patrolvehicles)](https://github.com/LenixDev/lenix_patrolvehicles)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenixdev&hide=html,css)](https://github.com/TripplerScripts)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenixdev&layout=compact&hide=html,css,makefile)](https://github.com/TripplerScripts)
