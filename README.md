@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lenix01x@gmail.com**
 
-- ⚡ Fun fact **Your code can always get better**
+- ⚡ Fun fact **Your code can always get better, Backend is easy only at the beginning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
