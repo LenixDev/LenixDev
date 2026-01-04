@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Lenix</h1>
 <h3 align="center">A junior backend engineer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenixdev&label=Profile%20views&color=0e75b6&style=flat" alt="lenixdev" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lenixdev&style=for-the-badge" alt="lenixdev" /> </p>
+z
 - 🔭 I’m currently working on [Trippler Scripts](trippler.store)
 
 - 👨‍💻 All of my projects are available at [lenix.dev](lenix.dev)
