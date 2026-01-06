@@ -2,7 +2,7 @@
 <h3 align="center">A junior backend engineer from Algeria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenixdev&style=for-the-badge" alt="lenixdev" /> </p>
-z
+
 - 🔭 I’m currently working on [Trippler Scripts](trippler.store)
 
 - 👨‍💻 All of my projects are available at [lenix.dev](lenix.dev)
