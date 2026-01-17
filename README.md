@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lenix</h1>
-<h3 align="center">A junior backend engineer</h3>
+<h3 align="center">A Fullstack Proogrammer (backend-focused)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenixdev&style=for-the-badge" alt="lenixdev" /> </p>
 
